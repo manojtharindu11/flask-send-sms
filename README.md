@@ -2,12 +2,12 @@
 
 This project is a simple Flask application that allows sending SMS messages using the Twilio API.
 
-## 🚀 Features
+## Features
 - Send SMS messages via Twilio
 - Simple Flask-based API
 - Easy setup and configuration
 
-## 🛠️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -47,7 +47,7 @@ This project is a simple Flask application that allows sending SMS messages usin
    curl -X POST http://127.0.0.1:5000/send_sms -H "Content-Type: application/json" -d '{"to":"+94771234567", "message":"Hello from Flask!"}'
    ```
 
-## 📜 API Endpoints
+## API Endpoints
 | Method | Endpoint      | Description      |
 |--------|-------------|------------------|
 | POST   | `/send_sms` | Send an SMS message |
