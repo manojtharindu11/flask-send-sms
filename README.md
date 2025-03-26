@@ -11,7 +11,7 @@ This project is a simple Flask application that allows sending SMS messages usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flask-twilio-sms.git
+   git clone https://github.com/manojtharindu11/flask-twilio-sms.git
    cd flask-twilio-sms
    ```
 
@@ -51,20 +51,3 @@ This project is a simple Flask application that allows sending SMS messages usin
 | Method | Endpoint      | Description      |
 |--------|-------------|------------------|
 | POST   | `/send_sms` | Send an SMS message |
-
-## 📌 License
-This project is open-source and available under the MIT License.
-
----
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-```
-
----
-
-### **GitHub About Section**  
-📲 **Flask SMS Sender with Twilio**  
-Send SMS messages easily using Flask and Twilio API. Simple setup & ready to use! 🚀  
-
----
-
-Let me know if you want any modifications! 😊
